@@ -79,6 +79,25 @@ Building practical web applications and strengthening my foundations in Java, fu
   </tr>
 </table>
 
+## ◆ GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/swagath09">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=swagath09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats for swagath09">
+</a>
+<a href="https://github.com/swagath09">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagath09&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages across public repositories">
+</a>
+
+<a href="https://github.com/swagath09">
+  <img src="https://streak-stats.demolab.com?user=swagath09&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for swagath09">
+</a>
+
+</div>
+
+> These cards are generated from GitHub activity and public repository code. They may take time to refresh; language share is not a measure of skill.
+
 ## ◆ What I'm Working Toward
 
 - Strengthening Core Java and data structures/problem solving.
