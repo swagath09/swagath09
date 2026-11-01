@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Swagath Yadav
 
-### Computer Science & Engineering Student · Aspiring Software Developer
+### Computer Science & Engineering Student(2027) · Aspiring Software Developer
 
 📍 Hyderabad, India · 🎓 MLR Institute of Technology
 
